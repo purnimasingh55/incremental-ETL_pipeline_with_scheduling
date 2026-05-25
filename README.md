@@ -34,6 +34,7 @@ This mini project was created for practice purposes to understand:
 
 ## Project Structure
 
+```bash
 incremental-ETL_pipeline_with_scheduling/
 │
 ├── data/                 # Input and output datasets
@@ -43,6 +44,7 @@ incremental-ETL_pipeline_with_scheduling/
 ├── requirements.txt      # Project dependencies
 ├── main.py               # Main pipeline execution file
 └── README.md
+```
 
 ---
 
